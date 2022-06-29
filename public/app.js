@@ -38,8 +38,7 @@ clicker1.addEventListener("click", () => {
 	}
 });
 
-// console.log(lat);
-// let key = ["7ffcb2dcc7748856bd1a8b5a24d06c9c"];
+
 
 let address = "https://api.openweathermap.org/data/2.5/weather?q=";
 
